@@ -9,3 +9,10 @@
 #### Distributing tasks among workers
 #### Use Round-Robin dispatching when there are multiples tasks and workers
 #### Concepts: ack, persistance(durable), prefetch
+
+   
+     
+     
+
+
+#### Source: https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html
